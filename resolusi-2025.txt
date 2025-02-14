@@ -1,4 +1,5 @@
 RESOLUSI SAYA
-- Belajar coding setiap hari
+- Belajar fundamental HTML, CSS dan Javasript
+- Belajar Git dan Github
 - Mempraktekkan hasil pembelajaran coding
-- Nulis Hello World! di html
+- Menulis "Hello World!" di html
