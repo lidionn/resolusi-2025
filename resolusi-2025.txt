@@ -1,3 +1,4 @@
 RESOLUSI SAYA
 - Belajar coding setiap hari
 - Mempraktekkan hasil pembelajaran coding
+- Nulis Hello World! di html
