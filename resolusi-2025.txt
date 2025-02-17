@@ -3,3 +3,5 @@ RESOLUSI SAYA
 - Belajar Git dan Github
 - Mempraktekkan hasil pembelajaran coding
 - Menulis "Hello World!" di html
+- Submit frontend project beginner Single Page CV dari roadmap.sh
+- Submit frontend project beginner Basic HTML Website dari roadmap.sh
