@@ -5,3 +5,4 @@ RESOLUSI SAYA
 - Menulis "Hello World!" di html
 - Submit frontend project beginner Single Page CV dari roadmap.sh
 - Submit frontend project beginner Basic HTML Website dari roadmap.sh
+- Submit hasil belajar di freecodecamp.org
